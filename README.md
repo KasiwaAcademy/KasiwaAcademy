@@ -7,11 +7,9 @@
 
 - 📝 I regularly write articles on [https://mcbrownmwale.github.io/data_lab/](https://mcbrownmwale.github.io/data_lab/)
 
-- 📫 How to reach me **mcbrownwilfred@gmail.com**
+- 📫 Reach me @ **mcbrownwilfred@gmail.com**
 
-- 📄 Know about my experiences [httphttps://www.linkedin.com/in/mcbrownmwale/](httphttps://www.linkedin.com/in/mcbrownmwale/)
-
-- ⚡ Fun fact **I think I am not Funny.**
+- 📄 Know about my experiences [https://www.linkedin.com/in/mcbrownmwale/](https://www.linkedin.com/in/mcbrownmwale/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
