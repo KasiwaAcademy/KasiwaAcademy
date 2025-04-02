@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mcbrownmwale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mcbrownmwale" height="30" width="40" /></a>
-<a href="https://kaggle.com/mcbrownmwale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mcbrownmwale" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/mcbrownwilfred" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mcbrownmwale" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@KasiwaAcademy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kasiwa academy" height="30" width="40" /></a>
 </p>
 
