@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm McBrown Wilfred Mwale</h1>
-<h3 align="center">A passionate Data Analyst from Malawi</h3>
+<h1 align="center">I'm McBrown Wilfred Mwale</h1>
+<h3 align="center">A passionate Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mcbrownmwale&label=Profile%20views&color=0e75b6&style=flat" alt="mcbrownmwale" /> </p>
 
