@@ -1,11 +1,11 @@
-<h1 align="center">I'm McBrown Wilfred Mwale</h1>
+<h1 align="center">I'm McBrown Mwale</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mcbrownmwale&label=Profile%20views&color=0e75b6&style=flat" alt="mcbrownmwale" /> </p>
 
 - 🌱 I’m currently learning **Data Science with Python at Dataquest.io**
 
-- 📝 I regularly write articles on [https://mcbrownmwale.github.io/data_lab/](https://mcbrownmwale.github.io/data_lab/)
+- 📝 I regularly write articles on [https://mcbrownmwale.github.io/data_lab/](https://kasiwaacademy.github.io/data_lab/)
 
 - 📫 Reach me @ **mcbrownwilfred@gmail.com**
 
