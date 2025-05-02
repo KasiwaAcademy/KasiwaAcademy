@@ -9,7 +9,7 @@
 
 - 📫 Reach me @ **mcbrownwilfred@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mcbrownmwale/](https://www.linkedin.com/in/kasiwaacademy/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/kasiwaacademy/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
