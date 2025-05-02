@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Science with Python at Dataquest.io**
 
-- 📝 I regularly write articles on [https://kasiwaacademy.github.io/data_lab/](https://kasiwaacademy.github.io/data_lab/)
+- 📝 I regularly write articles on [McBrown's DataLab](https://kasiwaacademy.github.io/data_lab/)
 
 - 📫 Reach me @ **mcbrownwilfred@gmail.com**
 
