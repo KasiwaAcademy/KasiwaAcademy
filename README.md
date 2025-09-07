@@ -1,9 +1,9 @@
-<h1 align="center">I'm McBrown Mwale</h1>
-<h3 align="center">A passionate Educator</h3>
+<h1 align="center">McBrown Mwale</h1>
+<h3 align="center">An Educator</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mcbrownmwale&label=Profile%20views&color=0e75b6&style=flat" alt="mcbrownmwale" /> </p>
 
-- 📝 I regularly write articles on [Kasiwa Academy](https://kasiwaacademy.github.io/data_lab/)
+- 📝 I regularly write articles on [Kasiwa Academy](kasiwa-academy.netlify.app)
 
 - 📫 Reach me @ **mcbrownwilfred@gmail.com**
 
