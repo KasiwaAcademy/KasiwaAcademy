@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mcbrownmwale&label=Profile%20views&color=0e75b6&style=flat" alt="mcbrownmwale" /> </p>
 
-- 📝 I regularly write articles on [Kasiwa Academy](https://www.kasiwa-academy.netlify.app)
+- 📝 I regularly write articles on [Kasiwa Academy](https://kasiwa-academy.netlify.app)
 
 - 📫 Reach me @ **mcbrownwilfred@gmail.com**
 
